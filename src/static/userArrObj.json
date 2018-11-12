@@ -1,0 +1,21 @@
+[
+    {
+        "userId": 1,
+        "userName": 0,
+        "userPass": 0,
+        "userConcern": [
+            1
+        ],
+        "userCollect": [
+            1
+        ],
+        "userComment": [
+            {
+                "newId": 1,
+                "text": "这剧真是好看呢！",
+                "give": 520
+            }
+        ],
+        "userPhoto": "http://10.2.2.245:8088/static/image/130.jpeg"
+    }
+]
